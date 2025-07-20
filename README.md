@@ -1,9 +1,9 @@
 # Arduino LED Control with Buttons Project 💡
-
+---
 ## Project Overview 🚀
 
 This project demonstrates controlling *three LEDs* (Red, Yellow, Blue) using *three buttons* on an *Arduino board*. When each button is pressed, it lights up the corresponding LED.
-
+---
 ## Project Objective 🎯
 
 The goal is to create a simple control system for LEDs using buttons with Arduino, while implementing the use of internal *pull-up resistors* to ensure proper button handling without external resistors.
@@ -23,10 +23,6 @@ The goal is to create a simple control system for LEDs using buttons with Arduin
 
 ## Wiring Instructions 🔌
 
-### Button and LED Assignment 📊
-
-Here is the *table* outlining the pin configuration for each button and LED:
-
 | Component         | Pin Number | Description            |
 |-------------------|------------|------------------------|
 | *Red Button*    | Pin 2      | Button to control Red LED |
@@ -35,6 +31,7 @@ Here is the *table* outlining the pin configuration for each button and LED:
 | *Red LED*       | Pin 5      | Red LED lights up when Red Button is pressed |
 | *Yellow LED*    | Pin 6      | Yellow LED lights up when Yellow Button is pressed |
 | *Blue LED*      | Pin 7      | Blue LED lights up when Blue Button is pressed |
+
 
 ---
 
