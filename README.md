@@ -34,7 +34,15 @@ The goal is to create a simple control system for LEDs using buttons with Arduin
 
 
 ---
+## 📸 Project Results
 
+Here are some real-world shots of the project in action:
+
+### circuit result:
+
+https://github.com/user-attachments/assets/ba232d9e-179c-4a41-8b14-28326ea7ae6a
+
+---
 ## Arduino Code 💻
 
 Here is the full Arduino code to control the LEDs:
@@ -86,6 +94,8 @@ void loop() {
     digitalWrite(blueLED, LOW);    // Turn off the blue LED
   }
 }
+```
+---
 ## 🧑‍💻 Author
 
 - **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
